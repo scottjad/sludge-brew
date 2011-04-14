@@ -6,6 +6,7 @@
 (defn demo-page [req]
   {:status 200
    :body (html-doc "Demo"
-	     [:h1 "Hello " [:span {:id "message"}]])})
+		   [:div {:id "main"}
+		    [:canvas {:id "processing"}]])})
   
 
