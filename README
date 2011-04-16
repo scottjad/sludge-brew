@@ -1,10 +1,7 @@
 # sludge-brew
 
-FIXME: write description
-
-## Usage
-
-FIXME: write
+This hasn't been run, there are certainly bugs, it was just a fun detour to
+use slice/scriptjure and compare result to normal clojure/coffeescript.
 
 ## License
 
